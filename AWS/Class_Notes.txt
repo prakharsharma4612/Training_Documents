@@ -1,0 +1,86 @@
+DevOps / Multi-Cloud(AWS & Azure) / Gen-AI 
+
+Start Date: 26th Nov. 2025
+
+Time: 7:30AM-9:30AM
+
+######################
+Day 1: 26th Nov. 2025
+######################
+
+Introduction: Day1 & Day2
+
+DevOps with Cloud Resource!
+
+AWS Module --> 
+
+FAQs 
+
+Interview based Q&A :
+
+Lab Requirements:
+
+Devops : -- 12 - 15 Services & Tools
+
+Cloud Platform -> AWS Cloud - Create a Free Tier Account 6-12 Month
+
+AWS - IAAS,PAAS --> US --> Azure - SAAS,PAAS,IAAS -> 
+
+Multi-Cloud AWS& Azure.
+
+AWS Cloud --> 
+
+Azure 
+
+DevOps
+
+
+Introduction to Modules ::::
+
+AWS Cloud --> 
+
+Network ==>
+
+	DevOps:
+	
+	
+	Network security
+	
+	IAC Tools Terraform/CloudFormation
+	
+	Jenkins
+
+
+######################
+Day 2: 27th Nov. 2025
+######################
+
+	Training Pre-Requisites :
+	
+		- Create a GitHub Account 
+			https://github.com/
+		
+			
+		- Create a DockerHub Account 
+		
+		
+		- Create an AWS Free Tier Account 
+	
+	
+		- Install Visual Studio Code - IDE on Local Machine
+		
+		
+		- Install Python on Local Machine
+
+
+	Introduction to Cloud Computing :
+	
+		Provision/Create AWS Resources :
+		
+			- Using AWS Console (Manual Process) ***
+			
+			- AWS CLI ***
+			
+			- IAC(Infra-Structure as Code) Tools like CloudFormation/Terraform *****
+			
+			- Using AWS SDK Libraries in Python **
